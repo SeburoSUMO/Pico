@@ -24,7 +24,7 @@ while True:
     if temperature <= 12.00:
         leds_off()
         led_onboard.value(1)
-    elif temperature > 22.20:
+    elif temperature > 28.00:
         leds_off()
         led_onboard.value(1)
     else:
