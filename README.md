@@ -1,4 +1,4 @@
-# Pico TempSense
+# TempSense
 
 An app written in MicroPython for the Raspberry Pi Pico.  The onboard LED lights up if the temperature is above 28C or below 12C.  The temperature is collected every five seconds and saved to temps.txt on the Pico if needed.  The Thonny IDE (installed from Thonny, not the Snap Store) will help in getting to this file.
 
